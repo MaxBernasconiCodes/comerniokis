@@ -1,5 +1,5 @@
 // Número con código de país, sin + ni espacios. Ejemplo: "5491112345678"
-const WHATSAPP_PHONE = "";
+const WHATSAPP_PHONE = "+543814013282";
 const WHATSAPP_TEXT = "Acepto los ñoquis del domingo 29. Ahí voy.";
 
 const COOLDOWN_MS = 420;
